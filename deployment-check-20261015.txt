@@ -1,0 +1,2 @@
+GitHub Pages deployment retry marker, 2026-10-15.
+This file does not change the website's visible content.
